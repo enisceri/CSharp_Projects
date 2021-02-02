@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+D:\CSharpDers\Projeler\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+D:\CSharpDers\Projeler\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+D:\CSharpDers\Projeler\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+D:\CSharpDers\Projeler\FirstProject\FirstProject\obj\Debug\FirstProject.pdb

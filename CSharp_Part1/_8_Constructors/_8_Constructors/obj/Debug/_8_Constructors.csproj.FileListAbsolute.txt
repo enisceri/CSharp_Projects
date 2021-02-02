@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_8_Constructors\_8_Constructors\bin\Debug\_8_Constructors.exe.config
+D:\CSharpDers\Projeler\_8_Constructors\_8_Constructors\bin\Debug\_8_Constructors.exe
+D:\CSharpDers\Projeler\_8_Constructors\_8_Constructors\bin\Debug\_8_Constructors.pdb
+D:\CSharpDers\Projeler\_8_Constructors\_8_Constructors\obj\Debug\_8_Constructors.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_8_Constructors\_8_Constructors\obj\Debug\_8_Constructors.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_8_Constructors\_8_Constructors\obj\Debug\_8_Constructors.exe
+D:\CSharpDers\Projeler\_8_Constructors\_8_Constructors\obj\Debug\_8_Constructors.pdb

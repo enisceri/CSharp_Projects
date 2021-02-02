@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\Class_Inheritance\Class_Inheritance\bin\Debug\Class_Inheritance.exe.config
+D:\CSharpDers\Projeler\Class_Inheritance\Class_Inheritance\bin\Debug\Class_Inheritance.exe
+D:\CSharpDers\Projeler\Class_Inheritance\Class_Inheritance\bin\Debug\Class_Inheritance.pdb
+D:\CSharpDers\Projeler\Class_Inheritance\Class_Inheritance\obj\Debug\Class_Inheritance.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\Class_Inheritance\Class_Inheritance\obj\Debug\Class_Inheritance.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\Class_Inheritance\Class_Inheritance\obj\Debug\Class_Inheritance.exe
+D:\CSharpDers\Projeler\Class_Inheritance\Class_Inheritance\obj\Debug\Class_Inheritance.pdb

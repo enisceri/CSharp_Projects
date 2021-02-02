@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_6_Classes_3_VirtualMethods\Classes_2_VirtualMethods\bin\Debug\Classes_2_VirtualMethods.exe.config
+D:\CSharpDers\Projeler\_6_Classes_3_VirtualMethods\Classes_2_VirtualMethods\bin\Debug\Classes_2_VirtualMethods.exe
+D:\CSharpDers\Projeler\_6_Classes_3_VirtualMethods\Classes_2_VirtualMethods\bin\Debug\Classes_2_VirtualMethods.pdb
+D:\CSharpDers\Projeler\_6_Classes_3_VirtualMethods\Classes_2_VirtualMethods\obj\Debug\Classes_2_VirtualMethods.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_6_Classes_3_VirtualMethods\Classes_2_VirtualMethods\obj\Debug\Classes_2_VirtualMethods.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_6_Classes_3_VirtualMethods\Classes_2_VirtualMethods\obj\Debug\Classes_2_VirtualMethods.exe
+D:\CSharpDers\Projeler\_6_Classes_3_VirtualMethods\Classes_2_VirtualMethods\obj\Debug\Classes_2_VirtualMethods.pdb

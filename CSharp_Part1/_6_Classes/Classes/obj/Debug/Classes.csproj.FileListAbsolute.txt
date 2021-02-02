@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\Classes\Classes\bin\Debug\Classes.exe.config
+D:\CSharpDers\Projeler\Classes\Classes\bin\Debug\Classes.exe
+D:\CSharpDers\Projeler\Classes\Classes\bin\Debug\Classes.pdb
+D:\CSharpDers\Projeler\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\Classes\Classes\obj\Debug\Classes.exe
+D:\CSharpDers\Projeler\Classes\Classes\obj\Debug\Classes.pdb

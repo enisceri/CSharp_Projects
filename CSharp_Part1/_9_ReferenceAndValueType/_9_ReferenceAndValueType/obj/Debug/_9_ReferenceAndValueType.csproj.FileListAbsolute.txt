@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_9_ReferenceAndValueType\_9_ReferenceAndValueType\bin\Debug\_9_ReferenceAndValueType.exe.config
+D:\CSharpDers\Projeler\_9_ReferenceAndValueType\_9_ReferenceAndValueType\bin\Debug\_9_ReferenceAndValueType.exe
+D:\CSharpDers\Projeler\_9_ReferenceAndValueType\_9_ReferenceAndValueType\bin\Debug\_9_ReferenceAndValueType.pdb
+D:\CSharpDers\Projeler\_9_ReferenceAndValueType\_9_ReferenceAndValueType\obj\Debug\_9_ReferenceAndValueType.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_9_ReferenceAndValueType\_9_ReferenceAndValueType\obj\Debug\_9_ReferenceAndValueType.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_9_ReferenceAndValueType\_9_ReferenceAndValueType\obj\Debug\_9_ReferenceAndValueType.exe
+D:\CSharpDers\Projeler\_9_ReferenceAndValueType\_9_ReferenceAndValueType\obj\Debug\_9_ReferenceAndValueType.pdb

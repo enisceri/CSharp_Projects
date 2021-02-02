@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_6_Classes_4_AbstractClass\_6_Classes_4_AbstractClass\bin\Debug\_6_Classes_4_AbstractClass.exe.config
+D:\CSharpDers\Projeler\_6_Classes_4_AbstractClass\_6_Classes_4_AbstractClass\bin\Debug\_6_Classes_4_AbstractClass.exe
+D:\CSharpDers\Projeler\_6_Classes_4_AbstractClass\_6_Classes_4_AbstractClass\bin\Debug\_6_Classes_4_AbstractClass.pdb
+D:\CSharpDers\Projeler\_6_Classes_4_AbstractClass\_6_Classes_4_AbstractClass\obj\Debug\_6_Classes_4_AbstractClass.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_6_Classes_4_AbstractClass\_6_Classes_4_AbstractClass\obj\Debug\_6_Classes_4_AbstractClass.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_6_Classes_4_AbstractClass\_6_Classes_4_AbstractClass\obj\Debug\_6_Classes_4_AbstractClass.exe
+D:\CSharpDers\Projeler\_6_Classes_4_AbstractClass\_6_Classes_4_AbstractClass\obj\Debug\_6_Classes_4_AbstractClass.pdb

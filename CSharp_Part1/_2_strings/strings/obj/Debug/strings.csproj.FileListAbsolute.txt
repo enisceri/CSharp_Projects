@@ -1,0 +1,6 @@
+D:\CSharpDers\Projeler\strings\strings\bin\Debug\strings.exe.config
+D:\CSharpDers\Projeler\strings\strings\bin\Debug\strings.exe
+D:\CSharpDers\Projeler\strings\strings\bin\Debug\strings.pdb
+D:\CSharpDers\Projeler\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\strings\strings\obj\Debug\strings.exe
+D:\CSharpDers\Projeler\strings\strings\obj\Debug\strings.pdb

@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\RefAnahtarKelimesi\RefAnahtarKelimesi\bin\Debug\RefAnahtarKelimesi.exe.config
+D:\CSharpDers\Projeler\RefAnahtarKelimesi\RefAnahtarKelimesi\bin\Debug\RefAnahtarKelimesi.exe
+D:\CSharpDers\Projeler\RefAnahtarKelimesi\RefAnahtarKelimesi\bin\Debug\RefAnahtarKelimesi.pdb
+D:\CSharpDers\Projeler\RefAnahtarKelimesi\RefAnahtarKelimesi\obj\Debug\RefAnahtarKelimesi.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\RefAnahtarKelimesi\RefAnahtarKelimesi\obj\Debug\RefAnahtarKelimesi.exe
+D:\CSharpDers\Projeler\RefAnahtarKelimesi\RefAnahtarKelimesi\obj\Debug\RefAnahtarKelimesi.pdb
+D:\CSharpDers\Projeler\RefAnahtarKelimesi\RefAnahtarKelimesi\obj\Debug\RefAnahtarKelimesi.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\Interfaces_2\Interfaces_2\bin\Debug\Interfaces_2.exe.config
+D:\CSharpDers\Projeler\Interfaces_2\Interfaces_2\bin\Debug\Interfaces_2.exe
+D:\CSharpDers\Projeler\Interfaces_2\Interfaces_2\bin\Debug\Interfaces_2.pdb
+D:\CSharpDers\Projeler\Interfaces_2\Interfaces_2\obj\Debug\Interfaces_2.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\Interfaces_2\Interfaces_2\obj\Debug\Interfaces_2.exe
+D:\CSharpDers\Projeler\Interfaces_2\Interfaces_2\obj\Debug\Interfaces_2.pdb
+D:\CSharpDers\Projeler\Interfaces_2\Interfaces_2\obj\Debug\Interfaces_2.csprojAssemblyReference.cache

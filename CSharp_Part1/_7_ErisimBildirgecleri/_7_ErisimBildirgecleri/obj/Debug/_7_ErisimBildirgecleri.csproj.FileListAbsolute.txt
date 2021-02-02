@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_7_ErisimBildirgecleri\_7_ErisimBildirgecleri\bin\Debug\_7_ErisimBildirgecleri.exe.config
+D:\CSharpDers\Projeler\_7_ErisimBildirgecleri\_7_ErisimBildirgecleri\bin\Debug\_7_ErisimBildirgecleri.exe
+D:\CSharpDers\Projeler\_7_ErisimBildirgecleri\_7_ErisimBildirgecleri\bin\Debug\_7_ErisimBildirgecleri.pdb
+D:\CSharpDers\Projeler\_7_ErisimBildirgecleri\_7_ErisimBildirgecleri\obj\Debug\_7_ErisimBildirgecleri.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_7_ErisimBildirgecleri\_7_ErisimBildirgecleri\obj\Debug\_7_ErisimBildirgecleri.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_7_ErisimBildirgecleri\_7_ErisimBildirgecleri\obj\Debug\_7_ErisimBildirgecleri.exe
+D:\CSharpDers\Projeler\_7_ErisimBildirgecleri\_7_ErisimBildirgecleri\obj\Debug\_7_ErisimBildirgecleri.pdb
