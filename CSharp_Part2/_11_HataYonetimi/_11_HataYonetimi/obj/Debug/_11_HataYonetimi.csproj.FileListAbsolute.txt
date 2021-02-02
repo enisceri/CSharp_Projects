@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_11_HataYonetimi\_11_HataYonetimi\bin\Debug\_11_HataYonetimi.exe.config
+D:\CSharpDers\Projeler\_11_HataYonetimi\_11_HataYonetimi\bin\Debug\_11_HataYonetimi.exe
+D:\CSharpDers\Projeler\_11_HataYonetimi\_11_HataYonetimi\bin\Debug\_11_HataYonetimi.pdb
+D:\CSharpDers\Projeler\_11_HataYonetimi\_11_HataYonetimi\obj\Debug\_11_HataYonetimi.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_11_HataYonetimi\_11_HataYonetimi\obj\Debug\_11_HataYonetimi.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_11_HataYonetimi\_11_HataYonetimi\obj\Debug\_11_HataYonetimi.exe
+D:\CSharpDers\Projeler\_11_HataYonetimi\_11_HataYonetimi\obj\Debug\_11_HataYonetimi.pdb

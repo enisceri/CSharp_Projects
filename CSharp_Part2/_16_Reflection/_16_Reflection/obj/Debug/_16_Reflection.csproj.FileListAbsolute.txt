@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_16_Reflection\_16_Reflection\bin\Debug\_16_Reflection.exe.config
+D:\CSharpDers\Projeler\_16_Reflection\_16_Reflection\bin\Debug\_16_Reflection.exe
+D:\CSharpDers\Projeler\_16_Reflection\_16_Reflection\bin\Debug\_16_Reflection.pdb
+D:\CSharpDers\Projeler\_16_Reflection\_16_Reflection\obj\Debug\_16_Reflection.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_16_Reflection\_16_Reflection\obj\Debug\_16_Reflection.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_16_Reflection\_16_Reflection\obj\Debug\_16_Reflection.exe
+D:\CSharpDers\Projeler\_16_Reflection\_16_Reflection\obj\Debug\_16_Reflection.pdb

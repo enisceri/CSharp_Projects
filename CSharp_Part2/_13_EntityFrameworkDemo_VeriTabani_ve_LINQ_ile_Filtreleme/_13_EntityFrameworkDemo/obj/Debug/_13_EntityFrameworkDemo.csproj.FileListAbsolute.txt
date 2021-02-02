@@ -1,0 +1,15 @@
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\bin\Debug\_13_EntityFrameworkDemo.exe.config
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\bin\Debug\_13_EntityFrameworkDemo.exe
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\bin\Debug\_13_EntityFrameworkDemo.pdb
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.Form1.resources
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.Properties.Resources.resources
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.csproj.CopyComplete
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.exe
+D:\CSharpDers\Projeler\_13_EntityFrameworkDemo\_13_EntityFrameworkDemo\obj\Debug\_13_EntityFrameworkDemo.pdb

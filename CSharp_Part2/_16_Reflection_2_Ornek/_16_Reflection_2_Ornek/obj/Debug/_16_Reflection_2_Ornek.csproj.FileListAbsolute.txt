@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_16_Reflection_2_Ornek\_16_Reflection_2_Ornek\bin\Debug\_16_Reflection_2_Ornek.exe.config
+D:\CSharpDers\Projeler\_16_Reflection_2_Ornek\_16_Reflection_2_Ornek\bin\Debug\_16_Reflection_2_Ornek.exe
+D:\CSharpDers\Projeler\_16_Reflection_2_Ornek\_16_Reflection_2_Ornek\bin\Debug\_16_Reflection_2_Ornek.pdb
+D:\CSharpDers\Projeler\_16_Reflection_2_Ornek\_16_Reflection_2_Ornek\obj\Debug\_16_Reflection_2_Ornek.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_16_Reflection_2_Ornek\_16_Reflection_2_Ornek\obj\Debug\_16_Reflection_2_Ornek.exe
+D:\CSharpDers\Projeler\_16_Reflection_2_Ornek\_16_Reflection_2_Ornek\obj\Debug\_16_Reflection_2_Ornek.pdb
+D:\CSharpDers\Projeler\_16_Reflection_2_Ornek\_16_Reflection_2_Ornek\obj\Debug\_16_Reflection_2_Ornek.csprojAssemblyReference.cache

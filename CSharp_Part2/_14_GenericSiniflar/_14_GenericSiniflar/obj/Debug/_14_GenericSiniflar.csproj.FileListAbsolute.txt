@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_14_GenericSiniflar\_14_GenericSiniflar\bin\Debug\_14_GenericSiniflar.exe.config
+D:\CSharpDers\Projeler\_14_GenericSiniflar\_14_GenericSiniflar\bin\Debug\_14_GenericSiniflar.exe
+D:\CSharpDers\Projeler\_14_GenericSiniflar\_14_GenericSiniflar\bin\Debug\_14_GenericSiniflar.pdb
+D:\CSharpDers\Projeler\_14_GenericSiniflar\_14_GenericSiniflar\obj\Debug\_14_GenericSiniflar.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_14_GenericSiniflar\_14_GenericSiniflar\obj\Debug\_14_GenericSiniflar.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_14_GenericSiniflar\_14_GenericSiniflar\obj\Debug\_14_GenericSiniflar.exe
+D:\CSharpDers\Projeler\_14_GenericSiniflar\_14_GenericSiniflar\obj\Debug\_14_GenericSiniflar.pdb

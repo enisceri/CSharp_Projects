@@ -1,0 +1,6 @@
+D:\CSharpDers\Projeler\_10_Collections\_10_Collections\bin\Debug\_10_Collections.exe.config
+D:\CSharpDers\Projeler\_10_Collections\_10_Collections\bin\Debug\_10_Collections.exe
+D:\CSharpDers\Projeler\_10_Collections\_10_Collections\bin\Debug\_10_Collections.pdb
+D:\CSharpDers\Projeler\_10_Collections\_10_Collections\obj\Debug\_10_Collections.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_10_Collections\_10_Collections\obj\Debug\_10_Collections.exe
+D:\CSharpDers\Projeler\_10_Collections\_10_Collections\obj\Debug\_10_Collections.pdb

@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_18_Events\_18_Events\bin\Debug\_18_Events.exe.config
+D:\CSharpDers\Projeler\_18_Events\_18_Events\bin\Debug\_18_Events.exe
+D:\CSharpDers\Projeler\_18_Events\_18_Events\bin\Debug\_18_Events.pdb
+D:\CSharpDers\Projeler\_18_Events\_18_Events\obj\Debug\_18_Events.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_18_Events\_18_Events\obj\Debug\_18_Events.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_18_Events\_18_Events\obj\Debug\_18_Events.exe
+D:\CSharpDers\Projeler\_18_Events\_18_Events\obj\Debug\_18_Events.pdb

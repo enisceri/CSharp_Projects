@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_15_Attributes\_15_Attributes\bin\Debug\_15_Attributes.exe.config
+D:\CSharpDers\Projeler\_15_Attributes\_15_Attributes\bin\Debug\_15_Attributes.exe
+D:\CSharpDers\Projeler\_15_Attributes\_15_Attributes\bin\Debug\_15_Attributes.pdb
+D:\CSharpDers\Projeler\_15_Attributes\_15_Attributes\obj\Debug\_15_Attributes.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_15_Attributes\_15_Attributes\obj\Debug\_15_Attributes.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_15_Attributes\_15_Attributes\obj\Debug\_15_Attributes.exe
+D:\CSharpDers\Projeler\_15_Attributes\_15_Attributes\obj\Debug\_15_Attributes.pdb

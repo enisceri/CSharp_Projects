@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_10_Collections_3_TypeSafe\_10_Collections_3_TypeSafe\bin\Debug\_10_Collections_3_TypeSafe.exe.config
+D:\CSharpDers\Projeler\_10_Collections_3_TypeSafe\_10_Collections_3_TypeSafe\bin\Debug\_10_Collections_3_TypeSafe.exe
+D:\CSharpDers\Projeler\_10_Collections_3_TypeSafe\_10_Collections_3_TypeSafe\bin\Debug\_10_Collections_3_TypeSafe.pdb
+D:\CSharpDers\Projeler\_10_Collections_3_TypeSafe\_10_Collections_3_TypeSafe\obj\Debug\_10_Collections_3_TypeSafe.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_10_Collections_3_TypeSafe\_10_Collections_3_TypeSafe\obj\Debug\_10_Collections_3_TypeSafe.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_10_Collections_3_TypeSafe\_10_Collections_3_TypeSafe\obj\Debug\_10_Collections_3_TypeSafe.exe
+D:\CSharpDers\Projeler\_10_Collections_3_TypeSafe\_10_Collections_3_TypeSafe\obj\Debug\_10_Collections_3_TypeSafe.pdb

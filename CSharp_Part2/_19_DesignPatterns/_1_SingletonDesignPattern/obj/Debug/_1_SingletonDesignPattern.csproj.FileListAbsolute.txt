@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_19_DesignPatterns\_1_SingletonDesignPattern\bin\Debug\_1_SingletonDesignPattern.exe.config
+D:\CSharpDers\Projeler\_19_DesignPatterns\_1_SingletonDesignPattern\bin\Debug\_1_SingletonDesignPattern.exe
+D:\CSharpDers\Projeler\_19_DesignPatterns\_1_SingletonDesignPattern\bin\Debug\_1_SingletonDesignPattern.pdb
+D:\CSharpDers\Projeler\_19_DesignPatterns\_1_SingletonDesignPattern\obj\Debug\_1_SingletonDesignPattern.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_19_DesignPatterns\_1_SingletonDesignPattern\obj\Debug\_1_SingletonDesignPattern.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_19_DesignPatterns\_1_SingletonDesignPattern\obj\Debug\_1_SingletonDesignPattern.exe
+D:\CSharpDers\Projeler\_19_DesignPatterns\_1_SingletonDesignPattern\obj\Debug\_1_SingletonDesignPattern.pdb

@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_17_Delegates\_17_Delegates\bin\Debug\_17_Delegates.exe.config
+D:\CSharpDers\Projeler\_17_Delegates\_17_Delegates\bin\Debug\_17_Delegates.exe
+D:\CSharpDers\Projeler\_17_Delegates\_17_Delegates\bin\Debug\_17_Delegates.pdb
+D:\CSharpDers\Projeler\_17_Delegates\_17_Delegates\obj\Debug\_17_Delegates.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_17_Delegates\_17_Delegates\obj\Debug\_17_Delegates.exe
+D:\CSharpDers\Projeler\_17_Delegates\_17_Delegates\obj\Debug\_17_Delegates.pdb
+D:\CSharpDers\Projeler\_17_Delegates\_17_Delegates\obj\Debug\_17_Delegates.csprojAssemblyReference.cache

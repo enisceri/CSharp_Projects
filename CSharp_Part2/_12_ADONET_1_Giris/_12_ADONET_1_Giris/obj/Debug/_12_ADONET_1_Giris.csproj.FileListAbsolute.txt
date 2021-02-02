@@ -1,0 +1,10 @@
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\bin\Debug\_12_ADONET_1_Giris.exe.config
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\bin\Debug\_12_ADONET_1_Giris.exe
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\bin\Debug\_12_ADONET_1_Giris.pdb
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\obj\Debug\_12_ADONET_1_Giris.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\obj\Debug\_12_ADONET_1_Giris.Form1.resources
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\obj\Debug\_12_ADONET_1_Giris.Properties.Resources.resources
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\obj\Debug\_12_ADONET_1_Giris.csproj.GenerateResource.cache
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\obj\Debug\_12_ADONET_1_Giris.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\obj\Debug\_12_ADONET_1_Giris.exe
+D:\CSharpDers\Projeler\_12_ADONET_1_Giris\_12_ADONET_1_Giris\obj\Debug\_12_ADONET_1_Giris.pdb

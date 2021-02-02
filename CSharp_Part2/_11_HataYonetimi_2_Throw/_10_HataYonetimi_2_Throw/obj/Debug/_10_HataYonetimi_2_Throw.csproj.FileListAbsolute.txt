@@ -1,0 +1,6 @@
+D:\CSharpDers\Projeler\_10_HataYonetimi_2_Throw\_10_HataYonetimi_2_Throw\bin\Debug\_10_HataYonetimi_2_Throw.exe.config
+D:\CSharpDers\Projeler\_10_HataYonetimi_2_Throw\_10_HataYonetimi_2_Throw\bin\Debug\_10_HataYonetimi_2_Throw.exe
+D:\CSharpDers\Projeler\_10_HataYonetimi_2_Throw\_10_HataYonetimi_2_Throw\bin\Debug\_10_HataYonetimi_2_Throw.pdb
+D:\CSharpDers\Projeler\_10_HataYonetimi_2_Throw\_10_HataYonetimi_2_Throw\obj\Debug\_10_HataYonetimi_2_Throw.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_10_HataYonetimi_2_Throw\_10_HataYonetimi_2_Throw\obj\Debug\_10_HataYonetimi_2_Throw.exe
+D:\CSharpDers\Projeler\_10_HataYonetimi_2_Throw\_10_HataYonetimi_2_Throw\obj\Debug\_10_HataYonetimi_2_Throw.pdb

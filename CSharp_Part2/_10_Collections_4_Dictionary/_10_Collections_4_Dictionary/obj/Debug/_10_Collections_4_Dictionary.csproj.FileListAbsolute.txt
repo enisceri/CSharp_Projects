@@ -1,0 +1,6 @@
+D:\CSharpDers\Projeler\_10_Collections_4_Dictionary\_10_Collections_4_Dictionary\bin\Debug\_10_Collections_4_Dictionary.exe.config
+D:\CSharpDers\Projeler\_10_Collections_4_Dictionary\_10_Collections_4_Dictionary\bin\Debug\_10_Collections_4_Dictionary.exe
+D:\CSharpDers\Projeler\_10_Collections_4_Dictionary\_10_Collections_4_Dictionary\bin\Debug\_10_Collections_4_Dictionary.pdb
+D:\CSharpDers\Projeler\_10_Collections_4_Dictionary\_10_Collections_4_Dictionary\obj\Debug\_10_Collections_4_Dictionary.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_10_Collections_4_Dictionary\_10_Collections_4_Dictionary\obj\Debug\_10_Collections_4_Dictionary.exe
+D:\CSharpDers\Projeler\_10_Collections_4_Dictionary\_10_Collections_4_Dictionary\obj\Debug\_10_Collections_4_Dictionary.pdb

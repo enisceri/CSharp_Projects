@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\_19_DesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+D:\CSharpDers\Projeler\_19_DesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+D:\CSharpDers\Projeler\_19_DesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+D:\CSharpDers\Projeler\_19_DesignPatterns\BuilderDesignPattern\obj\Debug\_5_BuilderDesignPattern.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\_19_DesignPatterns\BuilderDesignPattern\obj\Debug\_5_BuilderDesignPattern.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\_19_DesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+D:\CSharpDers\Projeler\_19_DesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
