@@ -1,0 +1,14 @@
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\Kitaplar.DataAccess.dll.config
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\Kitaplar.DataAccess.dll
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\Kitaplar.DataAccess.pdb
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\EntityFramework.dll
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\Kitaplar.Entities.dll
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\Kitaplar.Entities.pdb
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\EntityFramework.xml
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\obj\Debug\Kitaplar.DataAccess.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\obj\Debug\Kitaplar.DataAccess.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\obj\Debug\Kitaplar.DataAccess.csproj.CopyComplete
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\obj\Debug\Kitaplar.DataAccess.dll
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.DataAccess\obj\Debug\Kitaplar.DataAccess.pdb

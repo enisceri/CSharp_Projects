@@ -1,0 +1,3 @@
+Utilities klasöründeki ValidationTool class'ý kullanýlmadý.
+IOC Container olarak Ninject kullanýldý. Business katmanýnda Manage Nuget kýsmýndan ekleniyor.
+Solutionda da Ninject Manage Nuget'ten eklenmelidir. Çünkü arayüz kýsmýnda da çaðýrýyoruz Ninjecti.

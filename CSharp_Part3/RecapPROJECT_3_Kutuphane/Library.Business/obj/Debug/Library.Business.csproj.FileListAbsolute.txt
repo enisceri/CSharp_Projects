@@ -1,0 +1,16 @@
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Library.Business.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Library.Business.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Library.DataAccess.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Library.Entities.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Ninject.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\EntityFramework.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Library.DataAccess.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Library.DataAccess.dll.config
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Library.Entities.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\Ninject.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\bin\Debug\EntityFramework.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\obj\Debug\Library.Business.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\obj\Debug\Library.Business.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\obj\Debug\Library.Business.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Business\obj\Debug\Library.Business.pdb

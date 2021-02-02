@@ -1,0 +1,6 @@
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Entities\bin\Debug\Library.Entities.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Entities\bin\Debug\Library.Entities.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Entities\obj\Debug\Library.Entities.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Entities\obj\Debug\Library.Entities.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Entities\obj\Debug\Library.Entities.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.Entities\obj\Debug\Library.Entities.pdb

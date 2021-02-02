@@ -1,0 +1,6 @@
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.Entities\bin\Debug\Kitaplar.Entities.dll
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.Entities\bin\Debug\Kitaplar.Entities.pdb
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.Entities\obj\Debug\Kitaplar.Entities.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.Entities\obj\Debug\Kitaplar.Entities.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.Entities\obj\Debug\Kitaplar.Entities.dll
+D:\CSharpDers\Projeler\KutuphanePROJECT\Kitaplar.Entities\obj\Debug\Kitaplar.Entities.pdb

@@ -1,0 +1,55 @@
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.WebFormsUI.exe.config
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.WebFormsUI.exe
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.WebFormsUI.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.Form1.resources
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.Properties.Resources.resources
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csproj.GenerateResource.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.exe
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\EntityFramework.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.Business.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.DataAccess.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.Entities.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Ninject.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.Business.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.DataAccess.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.DataAccess.dll.config
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Library.Entities.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\EntityFramework.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\bin\Debug\Ninject.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csproj.CopyComplete
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.Properties.Resources.resources
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csproj.GenerateResource.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.exe
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.WebFormsUI.exe.config
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.WebFormsUI.exe
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.WebFormsUI.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\EntityFramework.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.Business.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.DataAccess.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.Entities.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Ninject.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.Business.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.DataAccess.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.DataAccess.dll.config
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Library.Entities.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\EntityFramework.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\Ninject.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.csproj.CopyComplete
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.frmAnaSayfa.resources
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.frmKitaplar.resources
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.frmKategoriler.resources
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\obj\Debug\Library.WebFormsUI.FrmKullanicilar.resources
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\FluentValidation.dll
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\FluentValidation.xml
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\LocalDB\Kutuphane.mdf
+D:\CSharpDers\Projeler\RecapPROJECT_3_Kutuphane _Gelismis\Library.WebFormsUI\bin\Debug\LocalDB\Kutuphane_log.ldf

@@ -1,0 +1,12 @@
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\bin\Debug\RecapPROJECT_MdiForm.exe.config
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\bin\Debug\RecapPROJECT_MdiForm.exe
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\bin\Debug\RecapPROJECT_MdiForm.pdb
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.FrmAnaSayfa.resources
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.FrmAktifKullanici.resources
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.FrmKullaniciDegistir.resources
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.Properties.Resources.resources
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.csproj.GenerateResource.cache
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.exe
+D:\CSharpDers\Projeler\RecapPROJECT_MdiForm\RecapPROJECT_MdiForm\obj\Debug\RecapPROJECT_MdiForm.pdb

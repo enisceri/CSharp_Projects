@@ -1,0 +1,7 @@
+D:\CSharpDers\Projeler\RecapDemo_2_Classes\RecapDemo_2_Classes\bin\Debug\RecapDemo_2_Classes.exe.config
+D:\CSharpDers\Projeler\RecapDemo_2_Classes\RecapDemo_2_Classes\bin\Debug\RecapDemo_2_Classes.exe
+D:\CSharpDers\Projeler\RecapDemo_2_Classes\RecapDemo_2_Classes\bin\Debug\RecapDemo_2_Classes.pdb
+D:\CSharpDers\Projeler\RecapDemo_2_Classes\RecapDemo_2_Classes\obj\Debug\RecapDemo_2_Classes.csprojAssemblyReference.cache
+D:\CSharpDers\Projeler\RecapDemo_2_Classes\RecapDemo_2_Classes\obj\Debug\RecapDemo_2_Classes.csproj.CoreCompileInputs.cache
+D:\CSharpDers\Projeler\RecapDemo_2_Classes\RecapDemo_2_Classes\obj\Debug\RecapDemo_2_Classes.exe
+D:\CSharpDers\Projeler\RecapDemo_2_Classes\RecapDemo_2_Classes\obj\Debug\RecapDemo_2_Classes.pdb
